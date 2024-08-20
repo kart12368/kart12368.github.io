@@ -18,7 +18,8 @@ window.addEventListener("scroll", () => {
       "backdrop-blur-lg",
       "shadow-sm",
       "dark:bg-darkTheme",
-      "dark:shadow-white/20"
+      "dark:shadow-white/20",
+      "h-1"
     );
     navLinks.classList.remove(
       "bg-white",
