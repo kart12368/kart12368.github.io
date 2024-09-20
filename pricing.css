@@ -114,3 +114,11 @@ a {
   text-decoration: none;
   color: inherit;
 }
+
+.pricing {
+  margin-bottom: 10rem;
+}
+
+.plan {
+  margin-bottom: 80px;
+}
